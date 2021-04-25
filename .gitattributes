@@ -1,0 +1,10 @@
+*.asm linguist-language=Assembler
+*.asm linguist-detectable=true
+*.csv linguist-detectable=false
+*.atdb linguist-detectable=false
+*.lst linguist-detectable=false
+*.lab linguist-detectable=false
+*.h* linguist-detectable=false
+*.pmf linguist-detectable=false
+*.scr linguist-detectable=false
+*.bat linguist-detectable=false
